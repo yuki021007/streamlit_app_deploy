@@ -2,3 +2,4 @@ streamlit>=1.36
 pandas>=2.0,<3
 numpy>=1.24,<3
 pyarrow>=14,<19
+sklearn
